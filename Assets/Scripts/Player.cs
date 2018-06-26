@@ -14,6 +14,11 @@ public class Player : MonoBehaviour {
 
     float carVelocity = 0;
 
+    int dummy = 1;
+
+    int dummy2 = 2;
+
+
     float currentPosition = 0;
     float previousPosition = 0;
 
